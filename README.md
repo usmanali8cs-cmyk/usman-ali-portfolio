@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, work experience, and projects as a **Full-Stack Software Engineer**.
 
 ## 🌐 Live Demo
-[View Live Portfolio](https://usmanali8cs.github.io/usmanali-portfolio/)
+[View Live Portfolio](https://usmanali8cs-cmyk.github.io/usman-ali-portfolio/)
 
 ## 🛠 Technologies Used
 - **Frontend:** React, Tailwind CSS, Framer Motion
