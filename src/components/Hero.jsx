@@ -83,9 +83,9 @@ const Hero = () => {
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
           <img
-            className="absolute bottom-0 ml-[33vw] 
-            lg:ml-[58vw] md:ml-[52vw] xmd:ml-[56vw] xl:ml-[56vw] 2xl:ml-[54vw] 
-            h-[41vh] sm:h-[90vh] md:h-[60vh] xmd:h-[68vh] lg:h-[66vh] xl:h-[72vh]"
+            className="absolute bottom-0 ml-[18vw] 
+            lg:ml-[58vw] md:ml-[38vw] xmd:ml-[46vw] xl:ml-[56vw] 2xl:ml-[54vw] 
+            h-[41vh] sm:h-[90vh] md:h-[42vh] xmd:h-[50vh] lg:h-[66vh] xl:h-[72vh]"
             src= {rightSectionImage}
             alt="right section"
           />
